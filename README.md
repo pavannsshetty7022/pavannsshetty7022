@@ -1,5 +1,5 @@
 
-### 👋 About Me<br><br>Hi, I’m **Pavan Kumar Shetty** 👨‍💻  <br>I enjoy building real-world projects and learning how things work behind the scenes.<br><br>- 🔭 Currently working on: Full-stack web and mobile applications  <br>- 🌱 Currently learning: Data Structures, system design, and backend development  <br>- 💬 Ask me about: Full-stack projects, APIs, and project planning  <br>- 🤝 Open to collaboration on: Open-source and student projects  <br>- ⚡ Fun fact: I fix one bug and proudly introduce three new ones 😄<br>
+### 👋 About Me<br><br>Hi, I’m **Pavan Kumar Shetty** 👨‍💻  <br>I enjoy building real-world projects and learning how things work behind the scenes.<br><br>- 🔭 Currently working on: Full-stack applications <br>- 💬 Ask me about: Full-stack projects, APIs, and project planning  <br>- 🤝 Open to collaboration on: Open-source and student projects  <br>- ⚡ Fun fact: I fix one bug and proudly introduce three new ones 😄<br>
 
 
 ## 🌐 Socials:
